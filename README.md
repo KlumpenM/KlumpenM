@@ -2,7 +2,6 @@
 
 🧠 Computer Science Masters student at Aarhus University <br/>
 💼 Junior Cybersecurity Consultant at KleanGroup A/S <br/>
-🍸 Bartender at Lucys <br/>
 👓 Currently on an adventure of understanding AI and RAG models in an enterprise setting <br/>
 📖 Broadning my understading of the latest trends and techs, testing my knowledge: <br/>
 <ul>
