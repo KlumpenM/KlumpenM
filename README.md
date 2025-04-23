@@ -2,6 +2,7 @@
 
 🧠 Computer Science Masters student at Aarhus University <br/>
 💼 Junior Cybersecurity Consultant at KleanGroup A/S <br/>
+🍸 Bartender at Lucy's <br />
 👓 Currently on an adventure of understanding AI and RAG models in an enterprise setting <br/>
 📖 Broadning my understading of the latest trends and techs, testing my knowledge: <br/>
 <ul>
@@ -9,6 +10,7 @@
   <li>Angular 18</li>
   <li>Huggingface, Coqui-ai, Whisper and OCR</li>
 </ul>
+🏉 Passionate rugby player at Odder Rugby Club <br />
 
 
 
