@@ -1,12 +1,10 @@
 ## Hi, I'm Ruben
 
-🧠 Computer Science Masters student at Aarhus University <br/>
-💼 Junior Cybersecurity Consultant at KleanGroup A/S <br/>
-🍸 Bartender at Lucy's <br />
-👓 Currently on an adventure of understanding AI and RAG models in an enterprise setting <br/>
+🧠 Cand. Scient in Comp. Sci. from Aarhus University. <br/>
+💼 Software Engineer I @ Lunar: [Work Profile](https://github.com/rumo-lunar) <br/>
 📖 Broadning my understading of the latest trends and techs, testing my knowledge: <br/>
 <ul>
-  <li>.NET 9, C# and F#</li>
+  <li>Go lang</li>
   <li>Angular 18</li>
   <li>Huggingface, Coqui-ai, Whisper and OCR</li>
 </ul>
